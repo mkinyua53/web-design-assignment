@@ -1,0 +1,17 @@
+@font-face {
+  font-family: 'Rubik';
+  src: url(../../fonts/RubikGlitchPop-Regular.ttf);
+}
+
+.rubik {
+  font-family: 'Rubik';
+}
+
+.active {
+  text-decoration: underline;
+  text-decoration-skip-ink: none;
+}
+.banner {
+  min-height: calc(100vh - 55.994px);
+  background-image: linear-gradient(45deg,  #873db54d, #d53f3f69);
+}
